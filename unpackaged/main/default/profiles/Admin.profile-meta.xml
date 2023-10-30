@@ -201,6 +201,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.DiscountPercentage__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.DunsNumber</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -252,11 +257,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.ParentId</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Account.Parent_account_total_ATV_legacy_field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
