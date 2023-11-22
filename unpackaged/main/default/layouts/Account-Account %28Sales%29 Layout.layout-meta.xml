@@ -74,6 +74,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Fax</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Website</field>
             </layoutItems>
             <layoutItems>
@@ -129,14 +133,6 @@
             <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>DiscountPercentage__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>DiscountRate__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>DiscountMarketRate__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
